@@ -6405,3 +6405,16 @@
   built_by: Kevin Hirczy
   built_by_url: https://nehalist.io
   featured: false
+- title: Cyril Gouverneur Portfolio
+  url: https://cyrilgouv.com
+  main_url: https://cyrilgouv.com
+  description: >
+    Cyril Gouverneur - Front End Web Developer from France.
+  categories:
+    - Portfolio
+    - Web Development
+    - Freelance
+    - Design
+  built_by: Cyril Gouverneur
+  built_by_url: https://twitter.com/CyrilGouv
+  featured: false
