@@ -7229,3 +7229,14 @@
   built_by: Somo
   built_by_url: https://www.somoglobal.com
   featured: false
+- title: Cyril Gouverneur - Front-end Developer
+  main_url: https://cyrilgouv.com
+  url: https://cyrilgouv.com
+  featured: false
+  description: >
+    Cyril Gouverneur French Front-end Developer Freelance
+  source_url: https://github.com/CyrilGouv/cg-gatsby-portfolio
+  categories:
+    - Portfolio
+    - Freelance
+  built_by: Cyril Gouverneur
